@@ -1,0 +1,62 @@
+/*
+.header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 50;
+	padding: 23px 0px 85px 0px;
+	@media (max-width: $mobile) {
+		padding: 17px 0px 17px 0px;
+	}
+	// .header__content
+	&__content {
+		position: relative;
+	}
+	// .header__container
+	&__container {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+	// .header__logo
+	&__logo {
+		position: relative;
+		img {
+			height: 66px;
+		}
+		@media (max-width: $mobile) {
+			img {
+				width: auto;
+				height: 41px;
+			}
+		}
+	}
+	// .header__whatsapp
+	&__whatsapp {
+		display: flex;
+		align-items: center;
+		position: relative;
+		@media (max-width: $mobile) {
+			display: none;
+		}
+	}
+	// .header__icon
+	&__icon {
+		width: 32px;
+		height: 32px;
+		display: block;
+		margin: 0px 10px 0px 0px;
+		background: url("../img/icons/whatsapp.svg") 0 0 no-repeat;
+	}
+	// .header__tel
+	&__tel {
+		font-family: "Calibri";
+		font-weight: 700;
+		font-size: 16px;
+		line-height: 160%;
+		letter-spacing: 0.01em;
+		color: #fff;
+	}
+}
+*/
